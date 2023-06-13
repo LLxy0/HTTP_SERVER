@@ -1,0 +1,31 @@
+﻿  httpd.cpp
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(33,20): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(53,32): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(129,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(132,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(135,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(138,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(160,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(128,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(131,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(134,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(137,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(151,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(168,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(171,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(175,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(180,36): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(167,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(170,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(174,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(179,2): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(204,62): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(232,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(236,14): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(259,13): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(300,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(303,3): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(321,4): warning C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(342,19): warning C4244: “初始化”: 从“SOCKET”转换到“int”，可能丢失数据
+E:\tool\code\LeetCode\Chat\MyHttp\httpd.cpp(350,56): warning C4312: “类型强制转换”: 从“int”转换到更大的“void *”
+  MyHttp.vcxproj -> E:\tool\code\LeetCode\Chat\MyHttp\x64\Debug\MyHttp.exe
